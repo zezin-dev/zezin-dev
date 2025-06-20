@@ -6,7 +6,7 @@
 </p>
 
 <h2 align="left"> Tecnologias que estou estudando </h2>
-<p align="left">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
@@ -21,12 +21,15 @@
 
 <h2 align="left"> 📊 Meus status no GitHub </h2>
 
+<h2 align="center">📊 Minhas estatísticas no GitHub</h2>
+
 <div align="center">
   <a href="https://github.com/zezin-dev">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=zezin-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zezin-dev&layout=compact&langs_count=7&theme=tokyonight"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=zezin-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Zezin"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zezin-dev&layout=compact&langs_count=7&theme=tokyonight" alt="Linguagens mais usadas por Zezin"/>
   </a>
 </div>
+
 
 ---
 
